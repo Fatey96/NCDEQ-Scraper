@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 INPUT_CSV = "well_documents.csv"
-OUTPUT_CSV = "extracted_well_data-2022.csv"
+OUTPUT_CSV = "extracted_well_data-2025.csv"
 BASE_URL = "https://edocs.deq.nc.gov/"
 
 # List of counties to include
