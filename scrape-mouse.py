@@ -24,7 +24,7 @@ def setup_driver():
 
 driver = setup_driver()
 
-url = "https://edocs.deq.nc.gov/WaterResources/Browse.aspx?id=2148507&dbid=0&repo=WaterResources"
+url = "https://edocs.deq.nc.gov/WaterResources/Browse.aspx?id=3616370&dbid=0&repo=WaterResources"
 
 def wait_for_element(by, value, timeout=20):
     try:
